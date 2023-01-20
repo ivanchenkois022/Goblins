@@ -1,0 +1,34 @@
+Start game
+Download cards
+Choose a language
+Exit
+The cards' database is updated to the latest version
+Russian
+English
+Beginning of the game
+Start the game
+Choose an option
+Strength
+Agility
+Intelligence
+Player won
+The computer won
+Draw
+Player
+Computer
+Next round
+Choice of move
+Yours move
+Let the computer move
+The computer chose the ability
+Victory
+Defeat
+Draw
+New game
+Main menu
+Continue game
+Loading
+Sound
+Music
+Buttons
+on/off sound
